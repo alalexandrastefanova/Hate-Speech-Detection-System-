@@ -1,2 +1,26 @@
-# Hate-Speech-Detection-System-
-Tweet classification system for hate speech, offensive language, and neutral content
+# Hate Speech Detection Using Machine Learning and Deep Learning
+
+This project compares classical machine learning and deep learning approaches for hate speech detection using the Kaggle Hate Speech and Offensive Language dataset.
+
+## Models
+- Logistic Regression
+- Naive Bayes
+- Random Forest
+- SVM
+- Bidirectional LSTM
+- DistilBERT
+
+## Techniques
+- TF-IDF
+- Bag-of-Words
+- NLP preprocessing
+- Confusion matrices
+- F1 Macro evaluation
+
+## Best Result
+DistilBERT:
+Accuracy: 0.9161
+F1 Macro: 0.7438
+
+## Technologies
+Python, Scikit-learn, PyTorch, Transformers, Pandas, Matplotlib

@@ -48,12 +48,12 @@ Hate-Speech-Detection-System/
 
 ### Model Performance Comparison
 
-![Model Results](images/model_performance_table.JPG)
+![Model Results](images/model_performance_table)
 
 Table comparing the performance of traditional machine learning models (Logistic Regression, Naive Bayes, Random Forest, and SVM) and deep learning approaches (Bidirectional LSTM and DistilBERT) using Accuracy, Macro F1, and Weighted F1 metrics.
 
 ### Performance Visualizations
 
-![Performance Charts](images/model_performance_charts.png)
+![Performance Charts](images/model_performance_charts)
 
 Comparison of Accuracy, Macro F1, and Weighted F1 scores across different feature representations (Bag-of-Words and TF-IDF) and deep learning architectures.

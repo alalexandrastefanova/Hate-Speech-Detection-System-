@@ -27,13 +27,13 @@ Python, Scikit-learn, PyTorch, Transformers, Pandas, Matplotlib
 
 ## Repository structure
 
+```text
 Hate-Speech-Detection/
 │
 ├── README.md
 ├── requirements.txt
 │
 ├── images/
-│   └── test
 │
 ├── notebook/
 │   ├── hate_speech_detection_executed.ipynb
@@ -41,3 +41,4 @@ Hate-Speech-Detection/
 │
 └── thesis/
     └── Bergkvist & Stefanova (2026) Hate Speech Detection Using Machine Learning.pdf
+```

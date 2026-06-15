@@ -25,6 +25,8 @@ F1 Macro: 0.7438
 ## Technologies
 Python, Scikit-learn, PyTorch, Transformers, Pandas, Matplotlib
 
+## Repository structure
+
 Hate-Speech-Detection/
 │
 ├── README.md

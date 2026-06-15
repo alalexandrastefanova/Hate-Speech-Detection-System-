@@ -24,3 +24,18 @@ F1 Macro: 0.7438
 
 ## Technologies
 Python, Scikit-learn, PyTorch, Transformers, Pandas, Matplotlib
+
+Hate-Speech-Detection/
+│
+├── README.md
+├── requirements.txt
+│
+├── images/
+│   └── test
+│
+├── notebook/
+│   ├── hate_speech_detection_executed.ipynb
+│   └── hate_speech_detection_executed_lstm_bert.ipynb
+│
+└── thesis/
+    └── Bergkvist & Stefanova (2026) Hate Speech Detection Using Machine Learning.pdf
